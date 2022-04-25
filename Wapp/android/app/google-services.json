@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336253393905",
+    "project_id": "testeranda-b354e",
+    "storage_bucket": "testeranda-b354e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336253393905:android:337d1d2c065f2b1f1b0250",
+        "android_client_info": {
+          "package_name": "com.wapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336253393905-mbutki46voa66d9orn14e42l90vuqomu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0DR01FlWpzE92dBccwUs60TNXMZYWWZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336253393905-mbutki46voa66d9orn14e42l90vuqomu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
